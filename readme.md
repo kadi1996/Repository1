@@ -19,3 +19,4 @@ Die Zusammenarbeit mit Repository 2 wurde simuliert. Änderungen wurden abwechse
 
 Die Datei `calc_repo1.py` enthält eine einfache Funktion, die von der Datei in Repository 2 erweitert oder aufgerufen werden kann.
 # Repository1
+- Repo1 Kommentar: Ich habe eine neue Funktion in calc_repo1.py geplant.

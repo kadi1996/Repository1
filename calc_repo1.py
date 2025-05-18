@@ -6,3 +6,8 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("Addition aus Repository 1:", add(3, 5))
+
+# calc_repo1.py
+def subtract(a, b):
+    """Gibt die Differenz von a und b zurück."""
+    return a - 
